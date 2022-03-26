@@ -9,3 +9,9 @@
 * Form submit quota by account type
 * Instant alert
 * Journal
+
+## Acknowledgements
+
+- ibrahimaltinoluk
+- mustafapicakci
+- tugayipek1
