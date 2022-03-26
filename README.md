@@ -12,6 +12,6 @@
 
 ## Acknowledgements
 
-- ibrahimaltinoluk
-- mustafapicakci
-- tugayipek1
+- @ibrahimaltinoluk
+- @kenanyasinsarigul
+- @tugayipek1
