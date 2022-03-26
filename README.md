@@ -1,6 +1,6 @@
 # FormElite
 
- Form Elite  is a web application aimed at managing html forms. 
+Form Elite is the backend of a web application aimed at managing html forms.
 
 ## Features
 
